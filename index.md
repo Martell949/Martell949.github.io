@@ -13,3 +13,5 @@ Homer Simpsons ist der Vater der Simpsons Familie. Er ist Angestellter im Kernkr
 
 Homer J. Simpson:
 > Nukular, es heißt Nu-ku-lar.
+
+<img src="http://clipart-library.com/data_images/344456.gif"/>
