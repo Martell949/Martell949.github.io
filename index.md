@@ -10,3 +10,6 @@ Homer Simpsons ist der Vater der Simpsons Familie. Er ist Angestellter im Kernkr
 * probiert gern neue Berufe aus
 * reist gern
 * mag nicht New York
+
+Homer J. Simpson:
+> Nukular, es heißt Nu-ku-lar.
